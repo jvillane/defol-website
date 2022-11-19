@@ -37,6 +37,6 @@ jobs:
         uses: lbertenasco/s3-deploy@v1.2.4
         with:
           folder: out
-          bucket: defol-master-front
-          dist-id: E24RDT8FEZZKLP
+          bucket: main-defol-cl
+          dist-id: E1FV4LIXS0NH7Y
           invalidation: /*
